@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Abhijith<br><br>🎓 Computer Science Engineering Student  <br>💻 Interested in Python & AI  <br>⚡ Learning Full Stack Development 
+# Hi 👋, I'm Abhijith<br><br>🎓 Computer Science Engineering Student  <br>💻 CSE Student | Python | DSA | Data Analysis | Full Stack Development  <br> 
 
 
 ## 🌐 Socials:
