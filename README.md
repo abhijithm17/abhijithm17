@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Hi 👋, I'm Abhijith<br><br>🎓 Computer Science Engineering Student  <br> Python | DSA | Data Analysis | Full Stack Development  <br> 
+## 💫 About Me
+
+Hi 👋, I'm Abhijith
+
+🎓 CSE Student  
+💻 Python | DSA | Data Analysis | Full Stack Development  
+🚀 Learning and building projects
 
 
 ## 🌐 Socials:
